@@ -1,9 +1,5 @@
 import requests
 import json
-
-# URL of the website you want to interact with
-url = 'https://www.roblox.com/home'
-
 # Set custom headers to mimic a real browser request
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
